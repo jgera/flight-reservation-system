@@ -3,7 +3,7 @@ import Classes.Airline;
 
 /**
  *
- * @author Madhushi
+ * 
  */
 public class AirlineTest {
 

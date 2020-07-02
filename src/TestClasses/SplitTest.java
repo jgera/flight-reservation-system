@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 /**
  *
- * @author Madhushi
  */
 public class SplitTest {
 

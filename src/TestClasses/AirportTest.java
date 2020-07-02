@@ -2,7 +2,7 @@ package TestClasses;
 import Classes.Airport;
 /**
  *
- * @author Madhushi
+ * 
  */
 public class AirportTest {
 

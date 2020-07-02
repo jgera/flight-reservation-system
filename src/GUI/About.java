@@ -7,7 +7,6 @@ package GUI;
 
 /**
  *
- * @author Dulan
  */
 public class About extends javax.swing.JInternalFrame {
 
@@ -33,7 +32,7 @@ public class About extends javax.swing.JInternalFrame {
         setTitle("About");
         setFont(new java.awt.Font("Segoe UI Semilight", 0, 14)); // NOI18N
 
-        jLabel2.setText("<html>\n\nDeveloped by  \n<br/>\n<br/>\nH. A. S. D. Senaratna (AS2015552) <br/>\nM. D. Welikala (AS2015593)<br/>\nH. M. U. L. Karunaratne (AS2015428)<br/>\n\n</html>");
+        jLabel2.setText("<html>  Developed by   <br/> <br/> Author 1 <br/> Author 2 </html>");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

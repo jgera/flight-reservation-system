@@ -7,7 +7,7 @@ package GUI;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class GetPassengerList extends javax.swing.JInternalFrame {
 

@@ -2,7 +2,7 @@ package Classes;
 
 /**
  *
- * @author new
+ * 
  */
 public class Address {
     private String street;

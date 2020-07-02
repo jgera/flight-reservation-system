@@ -4,7 +4,6 @@ import Classes.SystemManager;
 
 /**
  *
- * @author Madhushi
  */
 public class SystemManagerTest {
 

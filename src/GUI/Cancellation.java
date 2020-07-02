@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class Cancellation extends javax.swing.JInternalFrame {
 

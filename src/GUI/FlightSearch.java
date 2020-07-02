@@ -8,7 +8,6 @@ import Classes.*;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Senarathna
  */
 public class FlightSearch extends javax.swing.JInternalFrame {
 

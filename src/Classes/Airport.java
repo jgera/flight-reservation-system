@@ -2,7 +2,6 @@ package Classes;
 
 /**
  * Class Name : Airport
- * @author Madhushi
  * Purpose : To maintain information of an Airport. The maintained 
  *           information are, the airport ID, city and country.
  */

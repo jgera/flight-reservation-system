@@ -5,7 +5,7 @@ import Classes.SeatClass;
 
 /**
  *
- * @author Madhushi
+ * 
  */
 public class FlightSectionTest {
 

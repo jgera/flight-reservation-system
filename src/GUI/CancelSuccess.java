@@ -7,7 +7,6 @@ package GUI;
 
 /**
  *
- * @author Senarathna
  */
 public class CancelSuccess extends javax.swing.JInternalFrame {
 

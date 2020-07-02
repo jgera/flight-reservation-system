@@ -8,7 +8,7 @@ import Classes.*;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Senarathna
+ * 
  */
 public class PassengerDetails extends javax.swing.JInternalFrame {
 

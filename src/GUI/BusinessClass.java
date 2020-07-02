@@ -13,7 +13,7 @@ import javax.swing.JInternalFrame;
 
 /**
  *
- * @author Senarathna
+
  */
 public class BusinessClass extends javax.swing.JInternalFrame {
 

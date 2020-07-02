@@ -7,7 +7,7 @@ package GUI;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class GetFlightList extends javax.swing.JInternalFrame {
 

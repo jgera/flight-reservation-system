@@ -7,7 +7,7 @@ package GUI;
 import Classes.*;
 /**
  *
- * @author Senarathna
+ * 
  */
 public class ReserveSeats extends javax.swing.JInternalFrame {
 

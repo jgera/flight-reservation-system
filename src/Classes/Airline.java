@@ -1,6 +1,5 @@
 /**
  * Class Name : Airline
- * @author Madhushi
  * Purpose : To maintain information of an Airline. The maintained 
  *           information are, the airline ID and the name of the airline.
  */

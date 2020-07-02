@@ -22,7 +22,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Madhushi
+ * 
  */
 public class MainForm extends javax.swing.JFrame {
 

@@ -7,7 +7,7 @@ package GUI;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class PassengerList extends javax.swing.JInternalFrame {
 

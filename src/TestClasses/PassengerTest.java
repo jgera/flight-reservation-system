@@ -6,7 +6,7 @@ import Classes.Passenger;
 
 /**
  *
- * @author Madhushi
+ * 
  */
 public class PassengerTest {
     public static void main(String[] args) {

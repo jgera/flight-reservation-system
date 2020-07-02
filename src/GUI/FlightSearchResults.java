@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class FlightSearchResults extends javax.swing.JInternalFrame {
 

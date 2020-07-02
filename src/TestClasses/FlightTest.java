@@ -4,7 +4,7 @@ import Classes.Flight;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class FlightTest {
 

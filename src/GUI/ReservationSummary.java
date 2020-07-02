@@ -7,7 +7,7 @@ package GUI;
 import Classes.*;
 /**
  *
- * @author Senarathna
+ * 
  */
 public class ReservationSummary extends javax.swing.JInternalFrame {
 

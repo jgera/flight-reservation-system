@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class LoadFile extends javax.swing.JFrame {
 

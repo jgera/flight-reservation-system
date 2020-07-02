@@ -45,7 +45,7 @@
   <SubComponents>
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
-        <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;&#xa;Developed by  &#xa;&lt;br/&gt;&#xa;&lt;br/&gt;&#xa;H. A. S. D. Senaratna (AS2015552) &lt;br/&gt;&#xa;M. D. Welikala (AS2015593)&lt;br/&gt;&#xa;H. M. U. L. Karunaratne (AS2015428)&lt;br/&gt;&#xa;&#xa;&lt;/html&gt;"/>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;  Developed by   &lt;br/&gt; &lt;br/&gt; Author 1 &lt;br/&gt; Author 2 &lt;/html&gt;"/>
       </Properties>
     </Component>
   </SubComponents>

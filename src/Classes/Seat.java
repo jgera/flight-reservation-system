@@ -2,7 +2,6 @@ package Classes;
 
 /**
  *
- * @author Madhushi
  */
 public class Seat {
     private String seatID;    //rowNumber+columnCharacter

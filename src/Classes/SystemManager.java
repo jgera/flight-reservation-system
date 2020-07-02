@@ -10,7 +10,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Madhushi
  */
 public class SystemManager {
    

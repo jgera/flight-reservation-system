@@ -2,7 +2,6 @@ package TestClasses;
 import Classes.Seat;
 /**
  *
- * @author Madhushi
  */
 public class SeatTest {
 

@@ -15,7 +15,7 @@ import javax.swing.JScrollPane;
 
 /**
  *
- * @author Senarathna
+ * 
  */
 public class EconomyClass extends javax.swing.JInternalFrame {
 

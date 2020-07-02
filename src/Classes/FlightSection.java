@@ -2,7 +2,7 @@
 
 /**
  *
- * @author Madhushi
+ 
  */
 public class FlightSection {
 

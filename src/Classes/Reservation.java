@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
 
 /**
  *
- * @author Madhushi
+
  */
 public class Reservation {
     private int reservationNumber;

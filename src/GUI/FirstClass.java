@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JInternalFrame;
 /**
  *
- * @author Senarathna
+ * 
  */
 public class FirstClass extends javax.swing.JInternalFrame {
 
